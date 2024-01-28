@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am a fifth-year PhD student at UC Berkeley in [BAIR](https://bair.berkeley.edu/) co-advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Dan Klein](https://people.eecs.berkeley.edu/~klein/).  
-
 Prior to this, I spent a year working with [Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata)
 in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) through the support of a [Fulbright Student Research](https://us.fulbrightonline.org/fulbright-us-student-program) grant.
 I received my bachelor's degree in computer science from UT Austin, and was fortunate to get introduced to research by [Ray Mooney](https://www.cs.utexas.edu/~mooney/) 
