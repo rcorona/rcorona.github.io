@@ -19,6 +19,6 @@ I am proud to come from [the navel of the moon](https://embamex.sre.gob.mx/austr
 Community
 ======
 I am passionate about contributing to efforts working to diversify the AI community and make it more equitable.
-Currently, I am on the board for [RIIAA](https://riiaa.org/en/home/), a Latin American AI conference and school aimed at catalyzing
+Currently, I am on the board for [RIIAA](https://riiaa.org/en/home/) and on the practicals organizing team for [KHIPU](https://khipu.ai/), both Latin American AI conferences and schools aimed at catalyzing
 the usage/development of AI in Latin America by forging connections between the Latin American and global AI communities. 
 I was most recently a co-organizer of [RIIAA 6.0](https://www.riiaa.org/riiaa6) held in Quito, Ecuador. 
