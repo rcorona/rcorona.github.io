@@ -14,7 +14,7 @@ and [Qixing Huang](https://www.cs.utexas.edu/~huangqx/).
 
 Through my research, I aim to contribute to the understanding of how intelligent systems form concepts and abstractions necessary for high-level reasoning, starting from sensorimotor input. Work in compositionality, abstraction, and embodied cognition is of great interest to me.
 
-I am proud to come from [the navel of the moon]([https://embamex.sre.gob.mx/australia/index.php/infomexieng](https://embamex.sre.gob.mx/reinounido/images/stories/PDF/Meet_Mexico/2_meetmexico-symbolsofmexico.pdf)) 🇲🇽 
+I am proud to come from [the navel of the moon](https://embamex.sre.gob.mx/reinounido/images/stories/PDF/Meet_Mexico/2_meetmexico-symbolsofmexico.pdf) 🇲🇽 
 
 Community
 ======
