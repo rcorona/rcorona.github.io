@@ -27,5 +27,17 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      document.querySelectorAll(".obf-email").forEach(function (el) {
+        var addr = el.dataset.u + String.fromCharCode(64) + el.dataset.d;
+        var a = document.createElement("a");
+        a.href = "mailto:" + addr;
+        a.textContent = addr;
+        el.replaceWith(a);
+      });
+    });
+    </script>
+    
   </body>
 </html>
