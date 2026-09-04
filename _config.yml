@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=J2Z-ChoAAAAJ&hl=en"
-  email            :
+  email_user       : "rcorona"
+  email_domain     : "hks.harvard.edu"
   researchgate     : 
   uri              :
   bitbucket        :
