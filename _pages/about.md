@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Technology and Geopolitics Postdoctoral Fellow at the [Harvard Belfer Center](https://www.belfercenter.org/), where I work on topics related to AI governance in the Global South and technical AI governance. I received my PhD in Computer Science at the [BAIR](https://bair.berkeley.edu/) lab, where I was co-advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Dan Klein](https://people.eecs.berkeley.edu/~klein/). My dissertation focused on topics in grounded language learning, with the goal of developing NLP systems that can effectively connect language to perception and control. 
+I am a Technology and Geopolitics Postdoctoral Fellow at the [Harvard Belfer Center](https://www.belfercenter.org/), where I work on topics related to AI governance in the Global South and technical AI governance. I received my PhD in Computer Science at the [UC Berkeley AI Research lab](https://bair.berkeley.edu/) lab, where I was co-advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Dan Klein](https://people.eecs.berkeley.edu/~klein/). My dissertation focused on topics in grounded language learning, with the goal of developing NLP systems that can effectively connect language to perception and control. 
 
 During my PhD I had the privilege of serving as a visiting PhD Student at the [MBZUAI](https://mbzuai.ac.ae/) [RiTUAL lab](https://ritual-mbzuai.github.io/web/), hosted by [Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), and as a I was a 2025 Summer Fellow at the [Centre for the Governance of AI](https://www.governance.ai/), advised by [Robert Trager](https://www.oxfordmartin.ox.ac.uk/people/professor-robert-trager).
 
