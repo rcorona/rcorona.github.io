@@ -22,3 +22,5 @@ Community
 I am passionate about contributing to efforts working to diversify the AI community and make it more equitable. To this end, I have contributed to the organization of Latin American AI conferences and schools aimed at catalyzing the usage/development of AI in Latin America by forging connections between the Latin American and broader global AI community. 
 I have served as the Practicals and Hackathon Chair for [SALA](https://lasala.ai/), and as a co-organizer of [RIIAA 6.0](https://www.riiaa.org/riiaa6), held in Quito, Ecuador. 
 Previously, I was on the board for [RIIAA](https://riiaa.org/en/home/) and on the practicals organizing team for [KHIPU](https://khipu.ai/).
+
+**Contact:** {% include email.html %}
