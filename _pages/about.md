@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at UC Berkeley in [BAIR](https://bair.berkeley.edu/) co-advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Dan Klein](https://people.eecs.berkeley.edu/~klein/). 
-Through my technical research, I aim to contribute to the understanding of how intelligent systems form concepts and abstractions necessary for high-level reasoning, starting from sensorimotor input. Work in compositionality, abstraction, and embodied cognition is of great interest to me.
+I am a Technology and Geopolitics Postdoctoral Fellow at the [Harvard Belfer Center](https://www.belfercenter.org/), where I work on topics related to AI governance in the Global South and technical AI governance. I received my PhD in Computer Science at the [BAIR](https://bair.berkeley.edu/) lab, where I was co-advised by [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/) and [Dan Klein](https://people.eecs.berkeley.edu/~klein/). My dissertation focused on topics in grounded language learning, with the goal of developing NLP systems that can effectively connect language to perception and control. 
 
-In 2025, I was a Summer Fellow at the [Centre for the Governance of AI](https://www.governance.ai/) advised by [Robert Trager](https://www.oxfordmartin.ox.ac.uk/people/professor-robert-trager). I am excited to be working on topics focused on AI governance for the capacitation of LATAM and the Global South.
+During my PhD I had the privilege of serving as a visiting PhD Student at the [MBZUAI](https://mbzuai.ac.ae/) [RiTUAL lab](https://ritual-mbzuai.github.io/web/), hosted by [Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), and as a I was a 2025 Summer Fellow at the [Centre for the Governance of AI](https://www.governance.ai/), advised by [Robert Trager](https://www.oxfordmartin.ox.ac.uk/people/professor-robert-trager).
+
 Prior to Berkeley, I spent a year working with [Zeynep Akata](https://www.eml-unitue.de/people/zeynep-akata)
 in the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl/) through the support of a [Fulbright Student Research](https://us.fulbrightonline.org/fulbright-us-student-program) grant. I received my bachelor's degree in computer science from UT Austin, and was fortunate to get introduced to research by [Ray Mooney](https://www.cs.utexas.edu/~mooney/), [Qixing Huang](https://www.cs.utexas.edu/~huangqx/), and [Jesse Thomason](https://jessethomason.com/). 
 
@@ -19,8 +19,6 @@ I am proud to come from [the navel of the moon](https://embamex.sre.gob.mx/reino
 
 Community
 ======
-I am passionate about contributing to efforts working to diversify the AI community and make it more equitable.
-Currently, I am the Practicals and Hackathon Chair for [SALA](https://lasala.ai/).
-I was most recently a co-organizer of [RIIAA 6.0](https://www.riiaa.org/riiaa6) held in Quito, Ecuador. 
+I am passionate about contributing to efforts working to diversify the AI community and make it more equitable. To this end, I have contributed to the organization of Latin American AI conferences and schools aimed at catalyzing the usage/development of AI in Latin America by forging connections between the Latin American and broader global AI community. 
+I have served as the Practicals and Hackathon Chair for [SALA](https://lasala.ai/), and as a co-organizer of [RIIAA 6.0](https://www.riiaa.org/riiaa6), held in Quito, Ecuador. 
 Previously, I was on the board for [RIIAA](https://riiaa.org/en/home/) and on the practicals organizing team for [KHIPU](https://khipu.ai/).
-These are Latin American AI conferences and schools aimed at catalyzing the usage/development of AI in Latin America by forging connections between the Latin American and global AI communities. 
